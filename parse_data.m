@@ -54,7 +54,7 @@ function [train_data, test_data] = parse_data()
     t_sep = 5; % this can be adjusted
     for i = 1:numel(data_raw)
         label = data_raw{i}{2};
-        data_acc = data_raw{i}{1}(2:end); % excludes time in data
+        data_acc = data_raw{i}{1}(:); % (2:end) excludes time in data
         % parse through t, creating example object every 5 sec
         count = 0;
         start_ind = 1;
