@@ -1,0 +1,305 @@
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Connect_Callback', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 209)" style="font-weight:bold">My_Sensor_App>Connect_Callback</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',209,0)">line 209</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Connect_Callback'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Connect_Callback',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Menu Callback.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+cd '/Users/maxpayload/code/misc/MATLAB/num-methods-proj'
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+quit
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+exot
+{Unrecognized function or variable 'exot'.
+} 
+exit
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App>Main_Fig_CloseRequestFcn', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 582)" style="font-weight:bold">My_Sensor_App>Main_Fig_CloseRequestFcn</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',582,0)">line 582</a>)
+MATLAB Mobile is no longer supported with desktop MATLAB, use MATLAB Online instead.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('gui_mainfcn', '/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m', 95)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2020b.app/toolbox/matlab/guide/gui_mainfcn.m',95,0)">line 95</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('My_Sensor_App', '/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m', 42)" style="font-weight:bold">My_Sensor_App</a> (<a href="matlab: opentoline('/Users/maxpayload/Library/Application Support/MathWorks/MATLAB Add-Ons/Apps/SensorHARrecognitionApp/My_Sensor_App.m',42,0)">line 42</a>)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App(''Main_Fig_CloseRequestFcn'',hObject,eventdata,guidata(hObject))')" style="font-weight:bold">matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)My_Sensor_App('Main_Fig_CloseRequestFcn',hObject,eventdata,guidata(hObject))</a>} 
+Error while evaluating Figure CloseRequestFcn.
+
