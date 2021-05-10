@@ -1,0 +1,27 @@
+
+[data, labels] = parse_data();
+
+data = data(:,end,:);
+
+% sort all examples into train and test randomly
+N = size(data, 3);
+
+k_ind = crossvalind('KFold', N, 3);
+
+acc = 0;
+for i = 1:10
+    train_data = data(:,:,i == k_ind);
+    train_labels = labels(i == k_ind);
+    test_data = data(:,:,i ~= k_ind);
+    test_labels = labels(i ~= k_ind);
+    [net, info, test_acc] = CNN(train_data, train_labels, test_data, test_labels);
+    acc = acc + test_acc / 10;
+end
+
+disp(acc)
+
+
+% add gaussian
+imfilter(data,1/44*[1; 4; 9; 16; 9; 4; 1],'replicate')
+% add sobel
+imfilter(data,[-1; 0; 1],'replicate')
