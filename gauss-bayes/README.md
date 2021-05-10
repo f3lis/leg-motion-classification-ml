@@ -1,0 +1,5 @@
+# Gauss Naive Bayes classifier
+The Gauss Naive Bayes classifier is a simple probabilistic classifier that relies on Bayes theorem and assumes the data is stochastically independent and normally distributed within it's respective classes. The raw data has been smoothed with a moving average filter with a window of 15 data points. Classification was done on raw data as well as features including mean, std, and peak location. Two types of peak location were attempted, the first was a brute force peak locater via parsing data. The second approach is detailed in the section below. The second approach had significantly better results with an accuracy of 90.6% as a classification method. 
+
+# peak-nummethod
+This directory contains the code for our second approach to using peak location as a feature for classification. It involved using the Gauss-Newton algorithm to find the coefficients for a quadratic regression then using these coefficients with the Carena algorithm to fit a Gaussian function. Peaks were then located by finding inflection points via derivative. 
