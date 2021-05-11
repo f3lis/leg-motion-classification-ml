@@ -1,0 +1,2 @@
+# peak location optimized
+In our numerical analysis of the peaks, we first used the Gauss-Newton algorithm to get quadratic regression coefficients, then the Carena algorithm to create a Gaussian function using these coefficients. After that, the peaks were located by finding inflection points via the derivative and the data for peak locations was fed into a Gauss Naive Bayes Classifier to get an accuracy of 90.6%. 
